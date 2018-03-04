@@ -19,7 +19,7 @@ const points = Mock.genRandomNormalPoints();
 
 Returns a series of random normal x,y points.  
 
-### `Mock.getDateValue(n)`
+### `Mock.genDateValue(n)`
 
 Generates `n` date values an hour apart from each other starting with the current time. 
 
